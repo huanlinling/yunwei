@@ -1,0 +1,1 @@
+$(ssh root@192.168.138.148 "redis-cli -a 123456 INCR server_id")
